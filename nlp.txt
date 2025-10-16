@@ -1,0 +1,5 @@
+WHAT IS  MEANT BY NLP-> allows computers to understand , interpret and generate human language data.
+stats,ml,deep learning.
+serach engines are nlp used, email account autoatically detect spa email is an example of the nlp.
+supervised and unsupervised nlp-> in supervised all ip and op data are provided
+in unsupervised data is to be identify pattern.
