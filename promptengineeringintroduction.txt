@@ -1,0 +1,13 @@
+# TYPES OF THE PROMPTING TECHNIQUES BY THE UDEMY 
+1) ZERO SHOT PROMPTING-> give a single example within the task itself.
+2)FEW - SHOT PROMPTING-> tells also the exact formt .
+3) ZERO SHOT COT PROMPTING -> tell the model to think step by step.
+4) FEW SHOT COT PROMPTING -> think step by step along wit the steps that the user are providing to it .
+improves the understanding and the efficiency and helpful in handling teh complex problems 
+5) INSTRUCT PROMPTING -> AI is claer that what you are being said not nedd to get the examples . ai is understand itself.
+6) ROLE BASED PROMPTING -> 
+7) ETHICAL PROMPTING-> Avoid the use of the stereotypical prompt., Avoid the manipulation, not write the prompt leads lost trust, respect privary
+
+for to make the dashboard in the excel to copy the chart we have to do the ctrl x and the ctrl v to paste on the another sheet
+https://chatgpt.com/c/6936678b-8fd4-832d-a77b-bd9ca8697715
+https://www.geeksforgeeks.org/dbms/different-types-of-database-users/
