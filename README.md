@@ -69,3 +69,5 @@ This project focuses on **core NLP foundations** that are essential before movin
 ---
 
 ## 🧩 Project Architecture
+🤐😒🤣😂😁☺️🤗😏🙄😐😑------> SENTIMENT ANALYSIS PROJECTS COMING SOON 
+
